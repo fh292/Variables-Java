@@ -44,7 +44,7 @@ public class App {
     //Using the same docs, look for a method that checks if the last name:
     // doe starts with the letter d.
     boolean startsWithD = last.startsWith("d");
-    System.out.println(startsWithD);
+    System.out.println("Last name starts with d? "+ startsWithD);
     }
 
 
